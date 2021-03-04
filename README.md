@@ -1,8 +1,8 @@
 # An Analysis of Kickstarter Campaigns
 Performing statistical analysis to reveal trends in kickstarter campaign data for Louise.
 
-![](boxplot.png)
+![](images/boxplot.png)
 
-![](chart.png)
+![](images/chart.png)
 
-![](chart2.png)
+![](images/chart2.png)
