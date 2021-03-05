@@ -11,20 +11,20 @@ _The purpose of this project is to give Louise some statistical insight into how
 
 In this section, we analyze the success rates of campaigns based on their launch month.  As we can see from the following table, theater productions tend to be more successful during the summer months, with the height of success being those campaigns launched in May.
 
-![](resources\Theater_Outcomes_vs_Launch.png)
+![](resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### **Analysis of Outcomes Based on Goals:**
 
 In this section, we analyze the success rates of campaigns based on their pledge goals.  As one might expect, the campaigns launched with the smallest pledge goals tend to be the most successful.  
 
-![](resources\Outcomes_vs_Goals.png)
+![](resources/Outcomes_vs_Goals.png)
 
 ### **Challenges and Difficulties Encountered:**
 
 If you refer to the "Outcomes by Launch Month" graph, one might notice that the ratio of successful campaigns to failed campaigns does not vary wildly over the months as the raw numbers of successful and failed campaigns do.  Despite the raw number of successful campaigns being the highest in may, the ratio of successful to unsuccessful campaigns is not terribly different in May compared to other months.  Despite this fact, the ratio of successful campaigns to failed campaigns is still highest in May, as the following graph shows.  Note successful campaigns outnumber failed campaigns by more than two to one in May, and there are a roughly equal number of successful and failed campaigns in December.
 
-![](resources\ratios.png)
+![](resources/ratios.png)
 
 ## **Results:**
 
